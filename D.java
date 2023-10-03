@@ -1,16 +1,13 @@
-// Classe C
-public class C {
-    private String  C1;
-    private int C2; 
+// Classe D
+public class D {
+    private float D1;
+    private int D2; 
     
-    public void MC1() {
-        System.out.println("Método MC1 da classe C");
+    public void MD1() {
+        System.out.println("Método MD1 da classe D");
     }
 
-    public void MC2() {
-        System.out.println("Método MC2 da classe C");
-    }
-      public void MC3() {
-        System.out.println("Alteração a classe C partir do clone");
+    public void MD2() {
+        System.out.println("Método MD2 da classe D");
     }
     }
